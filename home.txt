@@ -177,7 +177,7 @@ text-shadow: 2px 3px slategrey;
     <div class="wellcome"><span>wellcome guyes</span></div>
     <div class="identity">
         <p>mebrat matebie <br>
-        <p>worku manaye</p><br>
+        <p>worku manaye allthr changes are made diffrent contexts of the matterials</p><br>
         <p>Alemu Abebe</p><br>
 s.w.e student at debre markos
         </p>
